@@ -1,0 +1,6 @@
+{
+  "name": "JEE Main CBT Practice Studio",
+  "description": "Offline-capable NTA JEE Main Computer-Based Test desktop practice suite with KaTeX math and chemistry rendering, IndexedDB storage, and post-session diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
